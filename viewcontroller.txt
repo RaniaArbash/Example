@@ -1,3 +1,4 @@
 create a main view controller
 design the view
 connect the model
+add manager button
