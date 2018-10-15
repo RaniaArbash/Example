@@ -1,0 +1,2 @@
+restock view controller
+connect with model
